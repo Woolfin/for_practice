@@ -8,7 +8,10 @@ keypad_phone = Phone()
 print(rotary_phone.line_type)
 # Печать содержимого атрибута line_type через объект keypad_phone.
 print(keypad_phone.line_type)
+print('test')
 
 # Выведется:
 # проводной
 # проводной
+
+#Hello WF
